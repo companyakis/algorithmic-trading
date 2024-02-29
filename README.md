@@ -9,5 +9,3 @@ https://github.com/companyakis/algo-trading-mql5
 C++ Object Oriented Programming:
 https://github.com/companyakis/cpp-oop
 
-C++ Memory Management:
-https://github.com/companyakis/cpp-memory-management
