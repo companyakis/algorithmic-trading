@@ -1,11 +1,10 @@
 # Algorithmic Trading
 
-C++ 101:
-https://github.com/companyakis/cplusplus101
+Pandas:
+https://github.com/companyakis/python-pandas
 
-MQL5 Language:
-https://github.com/companyakis/algo-trading-mql5
+Statistics:
+https://github.com/companyakis/python-statistics
 
-C++ Object Oriented Programming:
-https://github.com/companyakis/cpp-oop
-
+Python Finance:
+https://github.com/companyakis/python-finance
