@@ -1,4 +1,7 @@
-# Algorithmic Trading
+# Algorithmic Trading From Ground To Peak:)
+
+Numpy:
+https://github.com/companyakis/numpy
 
 Pandas:
 https://github.com/companyakis/python-pandas
