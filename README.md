@@ -6,6 +6,9 @@ https://github.com/companyakis/numpy
 Pandas:
 https://github.com/companyakis/python-pandas
 
+Python Time Series:
+https://github.com/companyakis/python-time-series
+
 Statistics:
 https://github.com/companyakis/python-statistics
 
