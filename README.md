@@ -6,6 +6,9 @@ https://github.com/companyakis/numpy
 Pandas:
 https://github.com/companyakis/python-pandas
 
+Python Data Preprocessing:
+https://github.com/companyakis/data-preprocessing
+
 Python Time Series:
 https://github.com/companyakis/python-time-series
 
