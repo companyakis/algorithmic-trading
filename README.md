@@ -1,5 +1,8 @@
 # Algorithmic Trading From Ground To Peak:)
 
+Python Finance:
+https://github.com/companyakis/python-finance
+
 Numpy:
 https://github.com/companyakis/numpy
 
@@ -11,9 +14,6 @@ https://github.com/companyakis/data-visualization
 
 Python Data Preprocessing:
 https://github.com/companyakis/data-preprocessing
-
-Python Finance:
-https://github.com/companyakis/python-finance
 
 Technical Analysis
 https://github.com/companyakis/python-technical-analysis
