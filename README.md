@@ -1,13 +1,16 @@
 # Algorithmic Trading From Ground To Peak:)
 
+Python Binance Algorithmic Trading:
+https://github.com/companyakis/python-binance
+
+Pandas:
+https://github.com/companyakis/python-pandas
+
 Python Finance:
 https://github.com/companyakis/python-finance
 
 Numpy:
 https://github.com/companyakis/numpy
-
-Pandas:
-https://github.com/companyakis/python-pandas
 
 Python Data Visualization:
 https://github.com/companyakis/data-visualization
