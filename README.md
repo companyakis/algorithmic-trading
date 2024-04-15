@@ -1,3 +1,6 @@
+Pandas in Depth:
+https://github.com/companyakis/pandas-in-depth
+
 Pandas: 
 https://github.com/companyakis/python-pandas
 
