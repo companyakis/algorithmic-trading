@@ -4,9 +4,6 @@ https://github.com/companyakis/python-pandas
 Financial Data:
 https://github.com/companyakis/financial-data
 
-Python Finance:
-https://github.com/companyakis/python-finance
-
 Numpy:
 https://github.com/companyakis/numpy
 
