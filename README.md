@@ -1,8 +1,8 @@
-Pandas in Depth:
-https://github.com/companyakis/pandas-in-depth
-
 Pandas: 
 https://github.com/companyakis/python-pandas
+
+Financial Data:
+https://github.com/companyakis/financial-data
 
 Python Finance:
 https://github.com/companyakis/python-finance
